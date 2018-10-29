@@ -1,0 +1,7 @@
+#Terraform system files
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+# Modules
+.terraform/
+# System vars
